@@ -1,0 +1,6 @@
+*.class
+*.war
+*.ear
+/out/
+/.idea/
+*.iml
